@@ -14,5 +14,5 @@ The second is clear.<br>
 ### sec * 6
 This whole function is updated every one second.<br>
 ### That was all!
-Link to watch online:
+Link to watch online: https://saeedkahe.github.io/AnalogClock/
 ### Good luck!😍
